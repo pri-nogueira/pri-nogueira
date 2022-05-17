@@ -1,4 +1,4 @@
-### Olá, sou a Priscila!
+### Olá, sou a Priscila! Estudante de Desenvolvimento Web
 
 <div align="center">
   <a href="https://github.com/pri-nogueira">
